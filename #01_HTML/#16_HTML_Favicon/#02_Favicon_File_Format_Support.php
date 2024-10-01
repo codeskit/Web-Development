@@ -1,0 +1,1 @@
+Favicon File Format Support
